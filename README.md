@@ -1,6 +1,6 @@
 # Starter Web Repo
 New sentense for rebasing
-
+new sentense for rebasing
 
 This repository is for showing how Git and GitHub work
 ## more ediiging
