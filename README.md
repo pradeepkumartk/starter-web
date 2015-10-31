@@ -1,5 +1,6 @@
 # Starter Web Repo
 
+
 This repository is for showing how Git and GitHub work
 ## more ediiging
 ## more and more
@@ -12,5 +13,6 @@ This is not fun
 Sample website with plenty of files for demos
 
 ## How to contribute
+Please change this repository
 #### Copyright
 copyright notice
