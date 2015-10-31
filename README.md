@@ -1,6 +1,8 @@
 # Starter Web Repo
 New sentense for rebasing
 new sentense for rebasing
+Then more changes from myfrature branch too
+
 
 This repository is for showing how Git and GitHub work
 ## more ediiging
